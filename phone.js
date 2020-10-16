@@ -1,4 +1,4 @@
-var phone = "+380996011265";
+var phone = "+380656031961";
 let len = phone.length;
 
 for (let i = 0; i <= len; i++) {}
